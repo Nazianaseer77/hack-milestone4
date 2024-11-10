@@ -1,0 +1,20 @@
+{
+  "name": "milestone3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "g": "^2.0.1",
+    "typescript": "^5.6.3",
+    "typescripte": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.5"
+  }
+}
